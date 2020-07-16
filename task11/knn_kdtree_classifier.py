@@ -1,9 +1,9 @@
 import numpy as np
-from task1.kdtree import Kdtree
+from task11.kdtree import Kdtree
 
 # from tensorflow import keras
 # from keras.datasets import mnist
-from task1.tests import test_knn_model
+from task11.tests import test_knn_model
 
 
 class KnnKdtreeClassifier(object):
